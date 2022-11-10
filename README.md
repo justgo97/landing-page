@@ -38,8 +38,8 @@ On phone:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub/responsive-landing-page-using-sass-and-reactjs-\_sCZ2mOddy](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub/responsive-landing-page-using-sass-and-reactjs-_sCZ2mOddy)
+- Live Site URL: [https://justgo97.github.io/landing-page/](https://justgo97.github.io/landing-page/)
 
 ## My process
 
