@@ -22,14 +22,14 @@ function App() {
   const modalRef = React.useRef<HTMLDivElement>(null);
 
   function onClickNav() {
-    if (modalRef.current) {
-      if (modalRef.current.style.display === "none") {
-        modalRef.current.style.display = "block";
-        setMenuActive(true);
-      } else {
-        modalRef.current.style.display = "none";
-        setMenuActive(false);
-      }
+    if (modalRef.current === null) return;
+
+    if (modalRef.current.style.display !== "block") {
+      modalRef.current.style.display = "block";
+      setMenuActive(true);
+    } else {
+      modalRef.current.style.display = "none";
+      setMenuActive(false);
     }
   }
 
